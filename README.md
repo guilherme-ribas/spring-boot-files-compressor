@@ -4,7 +4,7 @@ This project is a simple Spring Boot application that provides an endpoint to zi
 
 ## Prerequisites
 
-- Java 8 or higher
+- Java 17 or higher
 - Maven
 
 ## Getting Started
